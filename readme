@@ -1,0 +1,5 @@
+./nibbler width height libXXX.so
+
+E.g.
+
+./nibbler 30 30 ./lib_nibbler_Sfml.so
